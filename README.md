@@ -19,4 +19,3 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=mohammed-yasim&show_icons=true&locale=en" alt="mohammed-yasim" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohammed-yasim&" alt="mohammed-yasim" /></p>
-![mohammed-yasim's Stats](https://github-readme-stats.vercel.app/api?username=mohammed-yasim&theme=vue-dark&show_icons=true&hide_border=false&count_private=true)
